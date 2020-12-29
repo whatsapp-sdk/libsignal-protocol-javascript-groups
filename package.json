@@ -1,0 +1,19 @@
+{
+  "name": "libsignal-protocol-javascript-groups",
+  "version": "1.0.0",
+  "description": "signal protocol 是真正的端到端的通讯加密协议，号称是世界上最安全的通讯协议，任何第三方包括服务器都无法查看通讯内容，热门应用 facebook messenger，whatsapp，singal app 都采用的此协议。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whatsapp-sdk/libsignal-protocol-javascript-groups.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/whatsapp-sdk/libsignal-protocol-javascript-groups/issues"
+  },
+  "homepage": "https://github.com/whatsapp-sdk/libsignal-protocol-javascript-groups#readme"
+}
